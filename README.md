@@ -1,0 +1,2 @@
+# Omikuji
+Android向けのおみくじアプリです。
